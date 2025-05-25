@@ -110,7 +110,7 @@ body {
 }
 
 .resume_wrapper .resume_namerole .name {
-  font-size: 20px;
+  font-size: 14px;
   color: #fff;  
   font-weight: 700;
   margin-bottom: 5px;
@@ -150,14 +150,16 @@ body {
   color: #26252d;
 }
 
+/* Name */
 .resume_wrapper .resume_right .resume_namerole .name {
   color: #26252d;
-  font-size: 24px;
+  font-size: 20px;
   
 }
 
+/* Title */
 .resume_wrapper .resume_right .resume_namerole .role {
-  font-size: 16px;
+  font-size: 24px;
   font-weight: 700;
   text-transform: uppercase;
   padding-top: 5px;
